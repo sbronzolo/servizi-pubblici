@@ -1,9 +1,11 @@
 # servizi-pubblici
 Progettare un modello di servizio digitale in grado di assolvere i casi d'uso descritti nel repo
 
-## Brainstorming
+## User storie
+*Inserire link alle stories*
 
 ## Roadmap
+*Inserire link alla roadmap*
 
 ### Risorse
 
@@ -13,4 +15,4 @@ Progettare un modello di servizio digitale in grado di assolvere i casi d'uso de
 
 *wireframe*
 
-*prototype*
+*Prototype*
