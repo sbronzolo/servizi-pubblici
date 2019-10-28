@@ -17,3 +17,12 @@ Progettare un modello di servizio digitale in grado di assolvere i casi d'uso de
 *wireframe*
 
 *Prototype*
+
+
+
+A) VERSIONE COME SITO ATTUALE:
+
+A9. 	Implementazione dei nuovi Cataloghi 2017	investimento unitario	€	4.200,00
+include:	Creazione e rinomina delle fotografie
+	Estrazione ed inserimento testi
+Formattazione pagine 
